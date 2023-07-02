@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "parse": "del-cli --force dist && tsc && node dist/index.js"
+    "parse": "del-cli --force dist && tsc && node dist/index.js",
+    "fix-img-href": "del-cli --force dist && tsc && node dist/fix-img-href.js"
   },
   "dependencies": {
     "axios": "^1.4.0",

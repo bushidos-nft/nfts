@@ -13,12 +13,10 @@ async function main() {
         // "test2",
     ]
 
-    const TO_FOLDER = '../nfts/data';
+    const baseFolder = '../bushidos';
 
     for (const folder of folders) {
-        await new Promise(res => setTimeout(res, 500))
-
-        const baseFolderFiles = await new Promise<string[]>((res, rej) => fs.readdir(TO_FOLDER, (err, files) => {
+        const baseFolderFiles = await new Promise<string[]>((res, rej) => fs.readdir(baseFolder, (err, files) => {
             if (err) rej(err);
             res(files);
         }))
@@ -43,7 +41,7 @@ async function main() {
         console.log(folder, assetsFiles.length)
 
         for (let i = 0; i < assetsFiles.length; i++) {
-            const filesDir = `${TO_FOLDER}/${i + baseFolderFiles.length}`
+            const filesDir = `${baseFolder}/${i + baseFolderFiles.length}`
 
             if (!fs.existsSync(filesDir)) {
                 fs.mkdirSync(filesDir);
