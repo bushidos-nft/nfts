@@ -1,43 +1,39 @@
 {
-    "name": "BUSHIDOS #3719",
-    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 8, Koran-do: KD4, Face: Samurai, Mengu: Mengu 4, Eyes: Eyes 8, Kabuto: Kabuto 10, Horns: Horns 11.",
+    "name": "BUSHIDOS #2865",
+    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 30, Katana: Katana 2, Koran-do: Kimono 2, Eyes: Eyes, Face: Ronin 1, Hair: Hair 2.",
     "external_url": "",
-    "image": "https://bushidos-nft.github.io/nfts/bushidos/3718/image.png",
+    "image": "https://bushidos-nft.github.io/nfts/bushidos/2864/image.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 8"
+            "value": "Background 30"
+        },
+        {
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
             "trait_type": "Koran-do",
-            "value": "KD4"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Samurai"
-        },
-        {
-            "trait_type": "Mengu",
-            "value": "Mengu 4"
+            "value": "Kimono 2"
         },
         {
             "trait_type": "Eyes",
-            "value": "Eyes 8"
+            "value": "Eyes"
         },
         {
-            "trait_type": "Kabuto",
-            "value": "Kabuto 10"
+            "trait_type": "Face",
+            "value": "Ronin 1"
         },
         {
-            "trait_type": "Horns",
-            "value": "Horns 11"
+            "trait_type": "Hair",
+            "value": "Hair 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "1555.png",
+                "uri": "179.png",
                 "type": "image/png"
             }
         ],
