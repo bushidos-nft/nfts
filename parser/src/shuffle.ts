@@ -25,17 +25,17 @@ async function main() {
         fs.rename(`${baseFolder}/${aFile}`, `${baseFolder}/tmp`, function(err) {
             if (err) throw Error(err.message);
         })
-        await new Promise<void>(res => setTimeout(res, 10))
+        // await new Promise<void>(res => setTimeout(res, 100))
 
         fs.rename(`${baseFolder}/${bFile}`, `${baseFolder}/${aFile}`, function(err) {
             if (err) throw Error(err.message);
         })
-        await new Promise<void>(res => setTimeout(res, 10))
+        // await new Promise<void>(res => setTimeout(res, 100))
 
         fs.rename(`${baseFolder}/tmp`, `${baseFolder}/${bFile}`, function(err) {
             if (err) throw Error(err.message);
         })
-        await new Promise<void>(res => setTimeout(res, 10))
+        // await new Promise<void>(res => setTimeout(res, 100))
     }
 }
 
@@ -57,6 +57,7 @@ async function check() {
                 +it == +baseFolderFiles[i] + 1
             ))
         ) {
+            console.log(+baseFolderFiles[i] + 1)
             fs.rename(`${baseFolder}/tmp`, `${baseFolder}/${+baseFolderFiles[i] + 1}`, function(err) {
                 if (err) throw Error('ERROR: ' + err);
             })

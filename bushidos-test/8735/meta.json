@@ -1,0 +1,42 @@
+{
+    "name": "BUSHIDOS #1861",
+    "description": "This is unique art from BUSHIDO collection with random attributes: Background: Background 5, Koran-do: KD5, Face: Undead, Eyes: Eyes 9, Kabuto: Kabuto 9, Horns: Horns 7.",
+    "external_url": "",
+    "image": "https://bushidos-nft.github.io/nfts/bushidos-test/8735/image.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 5"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "KD5"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Undead"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 9"
+        },
+        {
+            "trait_type": "Kabuto",
+            "value": "Kabuto 9"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Horns 7"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "878.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

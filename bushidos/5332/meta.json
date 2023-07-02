@@ -1,35 +1,43 @@
 {
-    "name": "BUSHIDOS #1281",
-    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 2, Koran-do: KD4, Face: Cyborg, Kabuto: Kabuto 7, Horns: Horns 1.",
+    "name": "BUSHIDOS #7003",
+    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 3, Koran-do: KD7, Face: Samurai, Mengu: Mengu 2, Eyes: Eyes 5, Kabuto: Kabuto 8, Horns: Horns 2.",
     "external_url": "",
     "image": "https://bushidos-nft.github.io/nfts/bushidos/5332/image.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 2"
+            "value": "Background 3"
         },
         {
             "trait_type": "Koran-do",
-            "value": "KD4"
+            "value": "KD7"
         },
         {
             "trait_type": "Face",
-            "value": "Cyborg"
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Mengu",
+            "value": "Mengu 2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 5"
         },
         {
             "trait_type": "Kabuto",
-            "value": "Kabuto 7"
+            "value": "Kabuto 8"
         },
         {
             "trait_type": "Horns",
-            "value": "Horns 1"
+            "value": "Horns 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "733.png",
+                "uri": "2289.png",
                 "type": "image/png"
             }
         ],
