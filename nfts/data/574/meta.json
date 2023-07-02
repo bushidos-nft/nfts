@@ -1,0 +1,38 @@
+{
+    "name": "BUSHIDOS #575",
+    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 2, Koran-do: KD4, Face: Cyborg, Kabuto: Kabuto 9, Horns: Horns 1.",
+    "external_url": "",
+    "image": "1514.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 2"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "KD4"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Kabuto",
+            "value": "Kabuto 9"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Horns 1"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "1514.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

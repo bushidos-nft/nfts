@@ -1,0 +1,34 @@
+{
+    "name": "BUSHIDOS #9144",
+    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 1, Koran-do: KD6, Face: Zombie 1, Eyes: Eyes 11.",
+    "external_url": "",
+    "image": "227.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 1"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "KD6"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Zombie 1"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 11"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "227.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "BUSHIDOS #5637",
+    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 8, Koran-do: KD6, Face: Samurai, Mengu: Mengu 6, Eyes: Eyes 2, Kabuto: Kabuto 8, Horns: Horns 5.",
+    "external_url": "",
+    "image": "851.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 8"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "KD6"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Mengu",
+            "value": "Mengu 6"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 2"
+        },
+        {
+            "trait_type": "Kabuto",
+            "value": "Kabuto 8"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Horns 5"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "851.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

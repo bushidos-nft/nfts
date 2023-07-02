@@ -1,0 +1,31 @@
+.DS_Store
+node_modules
+parser/dist
+
+nfts/Cyborg
+nfts/Ghost
+nfts/Ronin
+nfts/Samurai
+nfts/Undead
+nfts/Zombie
+nfts/Gold
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

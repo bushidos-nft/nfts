@@ -1,0 +1,38 @@
+{
+    "name": "BUSHIDOS #9223",
+    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 1, Koran-do: KD6, Face: Zombie 2, Eyes: Eyes 9, Kabuto: Kabuto 2.",
+    "external_url": "",
+    "image": "299.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 1"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "KD6"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Zombie 2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 9"
+        },
+        {
+            "trait_type": "Kabuto",
+            "value": "Kabuto 2"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "299.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

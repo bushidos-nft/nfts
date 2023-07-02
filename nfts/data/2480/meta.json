@@ -1,0 +1,46 @@
+{
+    "name": "BUSHIDOS #2481",
+    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 20, Koran-do: KDG3, Soul: Soul, Face: Ghost 3, Eyes: Eyes light 1, Kabuto: Kabuto Ghost 3, Horns: Dark 1.",
+    "external_url": "",
+    "image": "733.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 20"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "KDG3"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Soul"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ghost 3"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes light 1"
+        },
+        {
+            "trait_type": "Kabuto",
+            "value": "Kabuto Ghost 3"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Dark 1"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "733.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

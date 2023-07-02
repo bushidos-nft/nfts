@@ -1,0 +1,42 @@
+{
+    "name": "BUSHIDOS #6553",
+    "description": "This is unique art from BUSHIDO collection with random attributes: Background: Background 6, Koran-do: KD2, Face: Undead, Eyes: Eyes 9, Kabuto: Kabuto 6, Horns: Horns 11.",
+    "external_url": "",
+    "image": "1675.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 6"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "KD2"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Undead"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 9"
+        },
+        {
+            "trait_type": "Kabuto",
+            "value": "Kabuto 6"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Horns 11"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "1675.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

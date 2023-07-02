@@ -1,0 +1,42 @@
+{
+    "name": "BUSHIDOS #2970",
+    "description": "This is unique art from BUSHIDOS collection with random attributes: Background: Background 32, Katana: Katana 2, Koran-do: Kimono 2, Eyes: Eyes, Face: Ronin 3, Hair: Hair 2.",
+    "external_url": "",
+    "image": "273.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 32"
+        },
+        {
+            "trait_type": "Katana",
+            "value": "Katana 2"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 3"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "273.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}
