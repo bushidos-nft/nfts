@@ -16,7 +16,8 @@ async function main() {
         const json = JSON.parse(fs.readFileSync(`../${baseFolder}/${folder}/meta.json`, 'utf8'));
 
         // json.name = `BUSHIDOS #${i+1}`
-        json.image = `${href}/${baseFolder}/${folder}/image.png`
+        json.description = "There is no greater solitude than that of the samurai.";
+        // json.image = `${href}/${baseFolder}/${folder}/image.png`
 
         await new Promise<void>(res => fs.writeFile(`../${baseFolder}/${folder}/meta.json`, JSON.stringify(json, null, 4), (e) => {
             if (e) console.error(e)

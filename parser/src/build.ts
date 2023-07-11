@@ -8,9 +8,6 @@ async function main() {
         "Samurai",
         "Undead",
         "Zombie",
-
-        // "test",
-        // "test2",
     ]
 
     const baseFolder = '../bushidos';
