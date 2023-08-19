@@ -2,15 +2,10 @@ import * as fs from "fs";
 
 async function main() {
     const folders = [
-        "Cyborg",
-        "Ghost",
-        "Ronin",
-        "Samurai",
-        "Undead",
-        "Zombie",
+        "raw-evolution",
     ]
 
-    const baseFolder = '../bushidos';
+    const baseFolder = '../nfts/evolution';
 
     for (const folder of folders) {
         const baseFolderFiles = await new Promise<string[]>((res, rej) => fs.readdir(baseFolder, (err, files) => {
