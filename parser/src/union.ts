@@ -13,13 +13,13 @@ async function main() {
         res(files);
     }))
 
-    const metadata = [...baseFolderFiles].sort((a, b) => (
+    const metadata = Object.fromEntries([...baseFolderFiles].sort((a, b) => (
         +a - +b
     )).filter(it => !Number.isNaN(+it)).map(folder => (
         JSON.parse(fs.readFileSync(`../${baseFolder}/${folder}/meta.json`, 'utf8'))
-    ))
+    )).map((it, i) => [i + 1, it.name]))
 
-    fs.writeFile(`../${baseFolder}/full-meta.json`, JSON.stringify(metadata, null, 4), (e) => {
+    fs.writeFile(`../${baseFolder}/nfts-names-under-index.json`, JSON.stringify(metadata, null, 4), (e) => {
         if (e) console.error(e)
     })
 }
