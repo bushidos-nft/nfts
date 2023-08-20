@@ -9,7 +9,7 @@ function getRandom(min: number, max: number, exclude: number): number {
 async function main() {
     await new Promise<void>(res => setTimeout(res, 10))
 
-    const baseFolder = '../bushidos';
+    const baseFolder = 'bushidos';
 
     const baseFolderFiles = await new Promise<string[]>((res, rej) => fs.readdir(baseFolder, (err, files) => {
         if (err) rej(err);
@@ -42,7 +42,7 @@ async function main() {
 
 async function check() {
 
-    const baseFolder = '../bushidos';
+    const baseFolder = 'bushidos';
 
     const baseFolderFiles = await new Promise<string[]>((res, rej) => fs.readdir(baseFolder, (err, files) => {
         if (err) rej(err);

@@ -5,7 +5,7 @@ async function main() {
         "raw-evolution",
     ]
 
-    const baseFolder = '../nfts/evolution';
+    const baseFolder = 'nfts/evolution';
 
     for (const folder of folders) {
         const baseFolderFiles = await new Promise<string[]>((res, rej) => fs.readdir(baseFolder, (err, files) => {
@@ -15,8 +15,8 @@ async function main() {
 
         console.log("Current files:", baseFolderFiles.length)
 
-        const assetsPath = `../nfts/${folder}/assets`;
-        const metadataPath = `../nfts/${folder}/metadata`;
+        const assetsPath = `nfts/${folder}/assets`;
+        const metadataPath = `nfts/${folder}/metadata`;
 
         const assetsFiles = await new Promise<string[]>((res, rej) => fs.readdir(assetsPath, (err, files) => {
           if (err) rej(err);

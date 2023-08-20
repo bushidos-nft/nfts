@@ -4,8 +4,8 @@ const toEvolutionData: number[][] = [
 
 ];
 
-const toDir = "../bushidos-test";
-const fromDir = "../nfts/evolution";
+const toDir = "bushidos-test";
+const fromDir = "nfts/evolution";
 
 
 async function main() {
