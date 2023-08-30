@@ -1,6 +1,6 @@
 import * as fs from "fs";
 
-const toDir = "bushidos-test";
+const toDir = "bushidos";
 const fromDir = "nfts/evolution";
 
 async function main() {
@@ -16,7 +16,7 @@ async function main() {
         const  [currentMetaNameNumber, newMetaIndex] = it;
         console.log(`--------------------------------`)
         console.log(`Start updating ${currentMetaNameNumber} ${newMetaIndex}`)
-        const currentMetaIndex = allDefaultMeta.findIndex(it => it.name.includes(`#${currentMetaNameNumber}`))
+        const currentMetaIndex = allDefaultMeta.findIndex(it => it.name.endsWith(`#${currentMetaNameNumber}`))
         const currentMeta = allDefaultMeta[currentMetaIndex];
 
         await saveOldMeta(currentMetaIndex, currentMeta);
@@ -44,6 +44,7 @@ async function saveNewMeta(newMetaIndex: number, currentMetaIndex: number, curre
     const newImg = fs.readFileSync(`${fromDir}/assets/${newMetaIndex}.png`);
 
     newMeta.name = currentMeta.name;
+    newMeta.description = currentMeta.description;
     newMeta.image = currentMeta.image;
 
     await new Promise<void>(res => fs.writeFile(`${toDir}/${currentMetaIndex}/meta.json`, JSON.stringify(newMeta, null, 4), (e) => {

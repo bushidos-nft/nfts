@@ -1,0 +1,42 @@
+{
+    "name": "BUSHIDOS #7655",
+    "description": "There is no greater solitude than that of the samurai.",
+    "external_url": "",
+    "image": "https://bushidos-nft.github.io/nfts/bushidos/4231/image.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background 31"
+        },
+        {
+            "trait_type": "Katana",
+            "value": "Katana 2"
+        },
+        {
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "286.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

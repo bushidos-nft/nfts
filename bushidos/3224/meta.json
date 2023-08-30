@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 24"
+            "value": "Galaxy"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "KDG2"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Soul",
-            "value": "Soul"
+            "trait_type": "Clothing",
+            "value": "Wakibiki"
         },
         {
             "trait_type": "Face",
-            "value": "Ghost 1"
+            "value": "Blessed"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Eyes light 1"
+            "trait_type": "Headwear",
+            "value": "Hood"
         },
         {
-            "trait_type": "Kabuto",
-            "value": "Kabuto Ghost 3"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Horns 3"
+            "trait_type": "Weapon",
+            "value": "Magic staff"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "67.png",
+                "uri": "226.png",
                 "type": "image/png"
             }
         ],

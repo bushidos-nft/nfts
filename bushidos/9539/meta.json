@@ -6,34 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 32"
+            "value": "Tera"
         },
         {
-            "trait_type": "Katana",
-            "value": "Katana 3"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "Kimono 3"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Eyes"
+            "trait_type": "Clothing",
+            "value": "Prowler"
         },
         {
             "trait_type": "Face",
-            "value": "Ronin 2"
+            "value": "Blindfold"
         },
         {
-            "trait_type": "Hair",
-            "value": "Hair 4"
+            "trait_type": "Headwear",
+            "value": "Bun"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Shuriken"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "The chosen one"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "293.png",
+                "uri": "101.png",
                 "type": "image/png"
             }
         ],

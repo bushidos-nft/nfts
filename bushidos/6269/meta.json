@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 31"
+            "value": "Forest"
         },
         {
-            "trait_type": "Katana",
-            "value": "Katana 3"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "Kimono 3"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Eyes"
+            "trait_type": "Clothing",
+            "value": "Cyberpunk"
         },
         {
             "trait_type": "Face",
-            "value": "Ronin 3"
+            "value": "Kenshi"
         },
         {
-            "trait_type": "Hair",
-            "value": "Hair 4"
+            "trait_type": "Headwear",
+            "value": "Aang"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Magic staff"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "8.png",
+                "uri": "99.png",
                 "type": "image/png"
             }
         ],

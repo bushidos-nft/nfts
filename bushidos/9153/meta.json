@@ -6,34 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 31"
+            "value": "Night"
         },
         {
-            "trait_type": "Katana",
-            "value": "Katana 2"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "Kimono 3"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Eyes"
+            "trait_type": "Clothing",
+            "value": "Sentouki"
         },
         {
             "trait_type": "Face",
-            "value": "Ronin 2"
+            "value": "Blessed"
         },
         {
-            "trait_type": "Hair",
-            "value": "Hair 3"
+            "trait_type": "Headwear",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "The chosen one"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "99.png",
+                "uri": "79.png",
                 "type": "image/png"
             }
         ],

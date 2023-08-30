@@ -6,34 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 30"
+            "value": "Oiru"
         },
         {
-            "trait_type": "Katana",
-            "value": "Katana 2"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "Kimono 1"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Eyes"
+            "trait_type": "Clothing",
+            "value": "Dangan"
         },
         {
             "trait_type": "Face",
-            "value": "Ronin 2"
+            "value": "Blessed"
         },
         {
-            "trait_type": "Hair",
-            "value": "Hair 1"
+            "trait_type": "Headwear",
+            "value": "Hat"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Quas/Wex/Exort"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Smoky"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "262.png",
+                "uri": "220.png",
                 "type": "image/png"
             }
         ],
