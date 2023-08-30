@@ -1,8 +1,9 @@
 .DS_Store
 node_modules
 parser/dist
-
+dist
 nfts
+bushidos-test
 
 # local env files
 .env
