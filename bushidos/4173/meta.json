@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "New Era"
+            "value": "Background 31"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Dangan"
+            "trait_type": "Koran-do",
+            "value": "Kimono 3"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
         },
         {
             "trait_type": "Face",
-            "value": "Blindfold"
+            "value": "Ronin 3"
         },
         {
-            "trait_type": "Headwear",
-            "value": "Horns"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Cyberkata"
+            "trait_type": "Hair",
+            "value": "Hair 4"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "40.png",
+                "uri": "112.png",
                 "type": "image/png"
             }
         ],

@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Tera"
+            "value": "Background 31"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 3"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Cyberpunk"
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
         },
         {
             "trait_type": "Face",
-            "value": "Kenshi"
+            "value": "Ronin 3"
         },
         {
-            "trait_type": "Headwear",
-            "value": "Hachimaki"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Quas/Wex/Exort"
+            "trait_type": "Hair",
+            "value": "Hair 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "322.png",
+                "uri": "31.png",
                 "type": "image/png"
             }
         ],

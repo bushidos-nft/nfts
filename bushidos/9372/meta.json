@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Valley"
+            "value": "Background 31"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Prowler"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Kizu"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Daimyo"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Quas/Wex/Exort"
+            "trait_type": "Koran-do",
+            "value": "Kimono 3"
         },
         {
             "trait_type": "Eyes",
-            "value": "The chosen one"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 3"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "115.png",
+                "uri": "157.png",
                 "type": "image/png"
             }
         ],

@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oiru"
+            "value": "Background 31"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "This is the way"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Kenshi"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Hat"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Quas/Wex/Exort"
+            "trait_type": "Koran-do",
+            "value": "Kimono 1"
         },
         {
             "trait_type": "Eyes",
-            "value": "The chosen one"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 3"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "57.png",
+                "uri": "237.png",
                 "type": "image/png"
             }
         ],

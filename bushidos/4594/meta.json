@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Tera"
+            "value": "Background 32"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 3"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Senshi"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Blessed"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Horns"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Halberd"
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
         },
         {
             "trait_type": "Eyes",
-            "value": "The chosen one"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "174.png",
+                "uri": "97.png",
                 "type": "image/png"
             }
         ],

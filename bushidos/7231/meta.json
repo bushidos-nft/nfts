@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Valley"
+            "value": "Background 30"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Waves of power"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Kenshi"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Fire"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Cyberkata"
+            "trait_type": "Koran-do",
+            "value": "Kimono 3"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smoky"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 4"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "244.png",
+                "uri": "235.png",
                 "type": "image/png"
             }
         ],

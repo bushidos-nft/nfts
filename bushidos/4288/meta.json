@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oiru"
+            "value": "Background 32"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 1"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Wakibiki"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Blessed"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Horns"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Shuriken"
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
         },
         {
             "trait_type": "Eyes",
-            "value": "The chosen one"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 3"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "35.png",
+                "uri": "39.png",
                 "type": "image/png"
             }
         ],

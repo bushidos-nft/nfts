@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oiru"
+            "value": "Background 9"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "This is the way"
+            "trait_type": "Koran-do",
+            "value": "KD6"
         },
         {
             "trait_type": "Face",
-            "value": "Blessed"
+            "value": "Undead"
         },
         {
-            "trait_type": "Headwear",
-            "value": "Rony"
+            "trait_type": "Eyes",
+            "value": "Eyes 9"
         },
         {
-            "trait_type": "Weapon",
-            "value": "Magic staff"
+            "trait_type": "Kabuto",
+            "value": "Kabuto 7"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Horns 5"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "164.png",
+                "uri": "325.png",
                 "type": "image/png"
             }
         ],

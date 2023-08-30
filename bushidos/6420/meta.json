@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Valley"
+            "value": "Background 30"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 1"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Dangan"
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
         },
         {
             "trait_type": "Face",
-            "value": "Blessed"
+            "value": "Ronin 1"
         },
         {
-            "trait_type": "Headwear",
-            "value": "Bun"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Halberd"
+            "trait_type": "Hair",
+            "value": "Hair 3"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "73.png",
+                "uri": "36.png",
                 "type": "image/png"
             }
         ],

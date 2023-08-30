@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Forest"
+            "value": "Background 30"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 1"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Sentouki"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Slasher"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Rony"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Axe"
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
         },
         {
             "trait_type": "Eyes",
-            "value": "Fire"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 2"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 4"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "43.png",
+                "uri": "70.png",
                 "type": "image/png"
             }
         ],

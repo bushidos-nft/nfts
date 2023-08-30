@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bibliotheek"
+            "value": "Background 32"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 1"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Senshi"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Blessed"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Horns"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Axe"
+            "trait_type": "Koran-do",
+            "value": "Kimono 3"
         },
         {
             "trait_type": "Eyes",
-            "value": "The chosen one"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "108.png",
+                "uri": "307.png",
                 "type": "image/png"
             }
         ],

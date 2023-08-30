@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Galaxy"
+            "value": "Background 30"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 3"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Prowler"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Kizu"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Horns"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Quas/Wex/Exort"
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
         },
         {
             "trait_type": "Eyes",
-            "value": "Fire"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 3"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "228.png",
+                "uri": "132.png",
                 "type": "image/png"
             }
         ],

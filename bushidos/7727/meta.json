@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Valley"
+            "value": "Background 30"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Dangan"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Kenshi"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Hat"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Magic staff"
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smoky"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 3"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "237.png",
+                "uri": "129.png",
                 "type": "image/png"
             }
         ],

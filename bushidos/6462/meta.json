@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Galaxy"
+            "value": "Background 32"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Prowler"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Blessed"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Hachimaki"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Magic staff"
+            "trait_type": "Koran-do",
+            "value": "Kimono 1"
         },
         {
             "trait_type": "Eyes",
-            "value": "Fire"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 3"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "53.png",
+                "uri": "274.png",
                 "type": "image/png"
             }
         ],

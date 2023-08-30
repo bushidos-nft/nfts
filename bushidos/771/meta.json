@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Oiru"
+            "value": "Background 31"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Wakibiki"
+            "trait_type": "Koran-do",
+            "value": "Kimono 2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
         },
         {
             "trait_type": "Face",
-            "value": "Kizu"
+            "value": "Ronin 1"
         },
         {
-            "trait_type": "Headwear",
-            "value": "Hat"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Kubikiribōchō"
+            "trait_type": "Hair",
+            "value": "Hair 4"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "156.png",
+                "uri": "210.png",
                 "type": "image/png"
             }
         ],

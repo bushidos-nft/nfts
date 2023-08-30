@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Japan"
+            "value": "Background 30"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 3"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Prowler"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Slasher"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Fire"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Bow"
+            "trait_type": "Koran-do",
+            "value": "Kimono 1"
         },
         {
             "trait_type": "Eyes",
-            "value": "The chosen one"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 2"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "247.png",
+                "uri": "147.png",
                 "type": "image/png"
             }
         ],

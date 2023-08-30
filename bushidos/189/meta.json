@@ -6,34 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bibliotheek"
+            "value": "Background 7"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Cyberpunk"
+            "trait_type": "Koran-do",
+            "value": "KD7"
         },
         {
             "trait_type": "Face",
-            "value": "Blindfold"
+            "value": "Samurai"
         },
         {
-            "trait_type": "Headwear",
-            "value": "Hachimaki"
+            "trait_type": "Mengu",
+            "value": "Mengu 3"
         },
         {
-            "trait_type": "Weapon",
-            "value": "Quas/Wex/Exort"
+            "trait_type": "Eyes",
+            "value": "Eyes 6"
+        },
+        {
+            "trait_type": "Kabuto",
+            "value": "Kabuto 10"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Horns 5"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "52.png",
+                "uri": "801.png",
                 "type": "image/png"
             }
         ],

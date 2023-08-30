@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Bibliotheek"
+            "value": "Background 32"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 1"
         },
         {
-            "trait_type": "Clothing",
-            "value": "This is the way"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Kenshi"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Rony"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Magic staff"
+            "trait_type": "Koran-do",
+            "value": "Kimono 3"
         },
         {
             "trait_type": "Eyes",
-            "value": "Smoky"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 2"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "60.png",
+                "uri": "58.png",
                 "type": "image/png"
             }
         ],

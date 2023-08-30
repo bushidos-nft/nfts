@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Cave of power"
+            "value": "Background 32"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Cyberpunk"
+            "trait_type": "Koran-do",
+            "value": "Kimono 1"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
         },
         {
             "trait_type": "Face",
-            "value": "Slasher"
+            "value": "Ronin 3"
         },
         {
-            "trait_type": "Headwear",
-            "value": "Daimyo"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Kubikiribōchō"
+            "trait_type": "Hair",
+            "value": "Hair 4"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "64.png",
+                "uri": "13.png",
                 "type": "image/png"
             }
         ],

@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "New Era"
+            "value": "Background 30"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Sentouki"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Kizu"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Hood"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Spear"
+            "trait_type": "Koran-do",
+            "value": "Kimono 1"
         },
         {
             "trait_type": "Eyes",
-            "value": "Fire"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 3"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "54.png",
+                "uri": "51.png",
                 "type": "image/png"
             }
         ],

@@ -6,38 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Tera"
+            "value": "Background 30"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 2"
         },
         {
-            "trait_type": "Clothing",
-            "value": "This is the way"
-        },
-        {
-            "trait_type": "Face",
-            "value": "Slasher"
-        },
-        {
-            "trait_type": "Headwear",
-            "value": "Hood"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Spear"
+            "trait_type": "Koran-do",
+            "value": "Kimono 3"
         },
         {
             "trait_type": "Eyes",
-            "value": "Fire"
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ronin 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "39.png",
+                "uri": "116.png",
                 "type": "image/png"
             }
         ],
