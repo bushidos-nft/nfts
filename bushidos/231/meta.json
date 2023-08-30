@@ -6,34 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 8"
+            "value": "Cave of power"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "KD9"
+            "trait_type": "Ronin",
+            "value": "Ronin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Mummy"
         },
         {
             "trait_type": "Face",
-            "value": "Undead"
+            "value": "Slasher"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Kubikiribōchō"
         },
         {
             "trait_type": "Eyes",
-            "value": "Eyes 9"
-        },
-        {
-            "trait_type": "Kabuto",
-            "value": "Kabuto 12"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Horns 10"
+            "value": "Fire"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "1417.png",
+                "uri": "80.png",
                 "type": "image/png"
             }
         ],

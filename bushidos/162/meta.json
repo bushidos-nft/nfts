@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 10"
+            "value": "Forest"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "KD2"
+            "trait_type": "Ronin",
+            "value": "Ronin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Senshi"
         },
         {
             "trait_type": "Face",
-            "value": "Undead"
+            "value": "Blindfold"
         },
         {
-            "trait_type": "Eyes",
-            "value": "Eyes 9"
+            "trait_type": "Headwear",
+            "value": "Fire"
         },
         {
-            "trait_type": "Kabuto",
-            "value": "Kabuto 2"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Horns 7"
+            "trait_type": "Weapon",
+            "value": "Axe"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "2101.png",
+                "uri": "104.png",
                 "type": "image/png"
             }
         ],

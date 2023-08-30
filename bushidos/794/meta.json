@@ -6,38 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 8"
+            "value": "Night"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "KD2"
+            "trait_type": "Ronin",
+            "value": "Ronin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Prowler"
         },
         {
             "trait_type": "Face",
-            "value": "Samurai"
+            "value": "Slasher"
         },
         {
-            "trait_type": "Mengu",
-            "value": "Mengu 8"
+            "trait_type": "Headwear",
+            "value": "Hachimaki"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Axe"
         },
         {
             "trait_type": "Eyes",
-            "value": "Eyes 7"
-        },
-        {
-            "trait_type": "Kabuto",
-            "value": "Kabuto 2"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Horns 5"
+            "value": "Smoky"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "680.png",
+                "uri": "123.png",
                 "type": "image/png"
             }
         ],

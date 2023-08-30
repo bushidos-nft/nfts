@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 32"
+            "value": "Night"
         },
         {
-            "trait_type": "Katana",
-            "value": "Katana 3"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "Kimono 2"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Eyes"
+            "trait_type": "Clothing",
+            "value": "This is the way"
         },
         {
             "trait_type": "Face",
-            "value": "Ronin 1"
+            "value": "Kizu"
         },
         {
-            "trait_type": "Hair",
-            "value": "Hair 1"
+            "trait_type": "Headwear",
+            "value": "Bushi"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Halberd"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "128.png",
+                "uri": "63.png",
                 "type": "image/png"
             }
         ],

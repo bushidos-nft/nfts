@@ -6,38 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 5"
+            "value": "Galaxy"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "KD6"
+            "trait_type": "Ronin",
+            "value": "Ronin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sentouki"
         },
         {
             "trait_type": "Face",
-            "value": "Samurai"
+            "value": "Kenshi"
         },
         {
-            "trait_type": "Mengu",
-            "value": "Mengu 7"
+            "trait_type": "Headwear",
+            "value": "Hat"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Spear"
         },
         {
             "trait_type": "Eyes",
-            "value": "Eyes 11"
-        },
-        {
-            "trait_type": "Kabuto",
-            "value": "Kabuto 11"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Horns 6"
+            "value": "Smoky"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "181.png",
+                "uri": "48.png",
                 "type": "image/png"
             }
         ],

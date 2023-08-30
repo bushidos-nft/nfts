@@ -6,38 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 20"
+            "value": "Japan"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "KDG1"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Soul",
-            "value": "Soul"
+            "trait_type": "Clothing",
+            "value": "Sentouki"
         },
         {
             "trait_type": "Face",
-            "value": "Ghost 3"
+            "value": "Blindfold"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Bun"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Spear"
         },
         {
             "trait_type": "Eyes",
-            "value": "Eyes light 1"
-        },
-        {
-            "trait_type": "Kabuto",
-            "value": "Kabuto Ghost 1"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Dark 2"
+            "value": "Smoky"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "980.png",
+                "uri": "67.png",
                 "type": "image/png"
             }
         ],

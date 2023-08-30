@@ -6,34 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 32"
+            "value": "Japan"
         },
         {
-            "trait_type": "Katana",
-            "value": "Katana 2"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "Kimono 3"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Eyes"
+            "trait_type": "Clothing",
+            "value": "Senshi"
         },
         {
             "trait_type": "Face",
-            "value": "Ronin 1"
+            "value": "Junky"
         },
         {
-            "trait_type": "Hair",
-            "value": "Hair 3"
+            "trait_type": "Headwear",
+            "value": "Hat"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Shuriken"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fire"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "257.png",
+                "uri": "160.png",
                 "type": "image/png"
             }
         ],

@@ -6,34 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 30"
+            "value": "New Era"
         },
         {
-            "trait_type": "Katana",
-            "value": "Katana 2"
+            "trait_type": "Ronin",
+            "value": "Ronin"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "Kimono 2"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Eyes"
+            "trait_type": "Clothing",
+            "value": "Cyberpunk"
         },
         {
             "trait_type": "Face",
-            "value": "Ronin 1"
+            "value": "Glasses"
         },
         {
-            "trait_type": "Hair",
-            "value": "Hair 2"
+            "trait_type": "Headwear",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Katana"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fire"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "179.png",
+                "uri": "190.png",
                 "type": "image/png"
             }
         ],

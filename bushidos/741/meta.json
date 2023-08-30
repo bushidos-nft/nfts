@@ -6,34 +6,38 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Background 3"
+            "value": "Valley"
         },
         {
-            "trait_type": "Koran-do",
-            "value": "KD10"
+            "trait_type": "Ronin",
+            "value": "Ronin"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dangan"
         },
         {
             "trait_type": "Face",
-            "value": "Undead"
+            "value": "Kenshi"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Aang"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Shuriken"
         },
         {
             "trait_type": "Eyes",
-            "value": "Eyes 9"
-        },
-        {
-            "trait_type": "Kabuto",
-            "value": "Kabuto 6"
-        },
-        {
-            "trait_type": "Horns",
-            "value": "Horns 9"
+            "value": "Fire"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "1584.png",
+                "uri": "272.png",
                 "type": "image/png"
             }
         ],
