@@ -6,34 +6,34 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Galaxy"
+            "value": "Background 32"
         },
         {
-            "trait_type": "Ronin",
-            "value": "Ronin"
+            "trait_type": "Katana",
+            "value": "Katana 1"
         },
         {
-            "trait_type": "Clothing",
-            "value": "Wakibiki"
+            "trait_type": "Koran-do",
+            "value": "Kimono 1"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes"
         },
         {
             "trait_type": "Face",
-            "value": "Blessed"
+            "value": "Ronin 1"
         },
         {
-            "trait_type": "Headwear",
-            "value": "Hood"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Magic staff"
+            "trait_type": "Hair",
+            "value": "Hair 4"
         }
     ],
     "properties": {
         "category": "image",
         "files": [
             {
-                "uri": "226.png",
+                "uri": "53.png",
                 "type": "image/png"
             }
         ],
